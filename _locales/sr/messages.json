@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Dr.Web antivirus extension for link scanning from the context menu."
+   },
+   "appName": {
+      "description": "",
+      "message": "Dr.Web Link Checker"
+   }
+}
